@@ -52,7 +52,7 @@
 		<dependency>
 			<groupId>02306373-a65b-4e36-9172-46d998d9c32c</groupId>
 			<artifactId>demo-api</artifactId>
-			<version>1.0.4</version>
+			<version>1.0.5</version>
 			<classifier>raml</classifier>
 			<type>zip</type>
 		</dependency>
